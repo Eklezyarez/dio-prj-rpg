@@ -1,14 +1,14 @@
 namespace dio_prj_rpg.Entities
 {
-    public class Arus
+    public class Hero
     {
 
-        public Arus(string Name, int Level, string HeroType){
+        public Hero(string Name, int Level, string HeroType){
             this.Name = Name;
             this.level = Level;
             this.HeroType = HeroType;
         }
-        public Arus(){
+        public Hero(){
             
         }
         public string Name;
@@ -21,8 +21,8 @@ namespace dio_prj_rpg.Entities
             return this.Name + " " + this.level + " " + this.HeroType;
         }
 
-        public string Attack(){
-            return this.name
+        public virtual string Attack(){
+            return this.Name + " Atracou com sua espada";
         }
 
     }

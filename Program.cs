@@ -4,11 +4,11 @@ using dio_prj_rpg.Entities;
     {
         static void Main(string[] args)
         {
-            Arus hero = new Arus("Arus", 23, "Knight");
-            Arus oponnet = new Arus("Maleficus", 99, "Devil");
-            
-            Console.WriteLine(hero);
-            Console.WriteLine(oponnet);
+            Hero arus = new Hero("Arus", 23, "Knight");
+            Hero wizard = new Hero("Jennica", 23, "White Wizard");
+
+            Console.WriteLine(wizard.Attack());
+           
         }
     }
 
