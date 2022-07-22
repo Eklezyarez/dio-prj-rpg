@@ -3,3 +3,13 @@ C:\Users\User\Desktop\dio-prj-rpg\obj\Debug\net6.0\dio-prj-rpg.GeneratedMSBuildE
 C:\Users\User\Desktop\dio-prj-rpg\obj\Debug\net6.0\dio-prj-rpg.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\dio-prj-rpg\obj\Debug\net6.0\dio-prj-rpg.AssemblyInfo.cs
 C:\Users\User\Desktop\dio-prj-rpg\obj\Debug\net6.0\dio-prj-rpg.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dio-prj-rpg\bin\Debug\net6.0\dio-prj-rpg.exe
+C:\Users\User\Desktop\dio-prj-rpg\bin\Debug\net6.0\dio-prj-rpg.deps.json
+C:\Users\User\Desktop\dio-prj-rpg\bin\Debug\net6.0\dio-prj-rpg.runtimeconfig.json
+C:\Users\User\Desktop\dio-prj-rpg\bin\Debug\net6.0\dio-prj-rpg.dll
+C:\Users\User\Desktop\dio-prj-rpg\bin\Debug\net6.0\dio-prj-rpg.pdb
+C:\Users\User\Desktop\dio-prj-rpg\obj\Debug\net6.0\dio-prj-rpg.dll
+C:\Users\User\Desktop\dio-prj-rpg\obj\Debug\net6.0\refint\dio-prj-rpg.dll
+C:\Users\User\Desktop\dio-prj-rpg\obj\Debug\net6.0\dio-prj-rpg.pdb
+C:\Users\User\Desktop\dio-prj-rpg\obj\Debug\net6.0\dio-prj-rpg.genruntimeconfig.cache
+C:\Users\User\Desktop\dio-prj-rpg\obj\Debug\net6.0\ref\dio-prj-rpg.dll
