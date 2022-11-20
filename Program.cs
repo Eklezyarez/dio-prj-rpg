@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using dio_prj_rpg.Entities;
     class Program
     {
@@ -22,7 +22,6 @@ using dio_prj_rpg.Entities;
             Console.WriteLine(jenica.Attack(1));
             Console.WriteLine(jenica.Attack(7));
             Console.WriteLine(arus.Defense());
-
             Console.WriteLine("\n\n--Batalha 2--\n");
             Console.WriteLine("\n*****Wedge vs Topapa*****\n");
             Console.WriteLine(topapa.Attack());
