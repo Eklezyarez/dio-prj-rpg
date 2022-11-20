@@ -16,7 +16,6 @@ using dio_prj_rpg.Entities;
             Console.WriteLine(wedge.Name + "\t" + wedge.Level + "\t" + wedge.HeroType + "\t\t" + wedge.HP + "\t" + wedge.MP );
             Console.WriteLine(topapa.Name + "\t" + topapa.Level + "\t" + topapa.HeroType + "\t" + topapa.HP + "\t" + topapa.MP );
           
-            
             Console.WriteLine("\n\n--Batalha 1--\n");
             Console.WriteLine("\n*****Jenica vs Arus*****\n");
             Console.WriteLine(arus.Attack());
