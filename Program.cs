@@ -29,7 +29,7 @@ using dio_prj_rpg.Entities;
             Console.WriteLine(topapa.Attack());
             Console.WriteLine(wedge.Attack());
             Console.WriteLine(topapa.Defense());
-         
+            Console.WriteLine(wedge.Defense());
                     
         }
     }
